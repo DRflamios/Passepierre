@@ -1,0 +1,40 @@
+body
+{
+  background: #252525;
+}
+.img
+{
+    margin: auto;
+    text-align: center;
+}
+h1
+{
+  color: white;
+  font-family: arial, sans-serif;
+}
+h2
+{
+  color: white;
+  font-family: arial, sans-serif;
+}
+ h3
+{
+  color: #df0824;
+  font-family: arial, sans-serif;
+}
+#h1-red
+{
+  color: #df0824;
+  font-family: arial, sans-serif;
+}
+
+.Sommaire{
+  margin: auto;
+  width: auto;
+  text-align: center;
+    text-decoration: none;
+}
+.Credit{
+  text-align: left;
+  background-color:#252525;
+}
